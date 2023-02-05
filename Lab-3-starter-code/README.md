@@ -14,13 +14,13 @@ In this lab, you will have the opportunity to construct styled tables and forms 
 
 | **Rubric**                             | **Max Score** | **Value**  |
 |----------------------------------------|:-------------:|:----------:|
-|  **Semantic Content**                   |               |            | 
-|	Calendar (header, footer, body, links) |	/5           |            |
-| Form					                         |	/5           |            |
-| GET/POST operation (check with target page)	| /2       |            | 
+| **Semantic Content**                   |               |            | 
+| Calendar (header, footer, body, links) |	/5           |            |
+| Form					                 |	/5           |            |
+| GET/POST operation (check with target page)	| /2     |            | 
 | **Visual Layout**                      |               |            | 
 | General calendar styling members of form | /4          |            | 
-|	Date hover	                           | /1            |            | 
+|	Date hover	                         | /1            |            | 
 | Form styling	                         | /3            |            | 
 |----------------------------------------|---------------|------------|
 |Total                                   |       /20     |            |
